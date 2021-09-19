@@ -1,0 +1,26 @@
+body{
+    background-image: url(background1.jpg);
+}
+.clock{
+    height: 25vw;
+    width: 50vw;
+    margin: auto;
+    position: relative;
+    background: transparent;
+    color: white;
+}
+.h1{
+    text-align: center;
+}
+#currentTime{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 20px;
+    height: 70%;    
+    width: 70%;
+    position: absolute;
+    left: 10%;
+}
